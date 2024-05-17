@@ -75,7 +75,7 @@ The project involved comprehensive exploration, model training, and evaluation. 
 - streamlit
 
 ### Streamlit App
-![Click to Predict US Nurse Attrition Rate](https://segunumoru1-us-healthcare-employee-attrition-analyti-app-tsc7ex.streamlit.app/)
+[Click to Predict US Nurse Attrition Rate](https://segunumoru1-us-healthcare-employee-attrition-analyti-app-tsc7ex.streamlit.app/)
 
 
 ## License
