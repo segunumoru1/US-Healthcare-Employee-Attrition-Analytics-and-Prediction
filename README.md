@@ -48,7 +48,7 @@ The project involved comprehensive exploration, model training, and evaluation. 
 ### How to Clone the Repository
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/nurse-attrition-prediction.git
+   git clone https://github.com/segunumoru1/US-Nurse-Attrition-Analytics-and-Prediction.git
    ```
 2. Navigate to the project directory:
    ```
@@ -73,14 +73,11 @@ The project involved comprehensive exploration, model training, and evaluation. 
 - seaborn
 - scikit-learn
 - streamlit
+
+### Streamlit App
+![Click to Predict US Nurse Attrition Rate](https://segunumoru1-us-healthcare-employee-attrition-analyti-app-tsc7ex.streamlit.app/)
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## How to Clone the Repository
-1. Open a terminal or command prompt on your local machine.
-2. Navigate to the directory where you want to clone the repository.
-3. Run the following command to clone the repository:
-   ```
-   git clone https://github.com/your-username/nurse-attrition-prediction.git
-   ```
-4. Once the cloning process is complete, you can navigate to the project directory and begin exploring the code.
